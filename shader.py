@@ -1,20 +1,3 @@
-KiLLSHOT
-killshotttttt
-TRUST NO MAN FEAR NO BITCH !
-
-KiLLSHOT — 7/6/2024 8:49 PM
-“Initialise” is the button which is supposed to install the module…..
-SkdSam — 7/6/2024 8:49 PM
-Right, that button should be linked to an operator that is linked to a run script node
-KiLLSHOT — 7/6/2024 8:50 PM
-aaa yess
-SkdSam — 7/6/2024 8:50 PM
-Show me your setup
-KiLLSHOT — 7/6/2024 8:51 PM
-Image
-SkdSam — 7/6/2024 8:52 PM
-And the code you are using
-KiLLSHOT — 7/6/2024 8:53 PM
 import bpy
 import subprocess
 import sys
