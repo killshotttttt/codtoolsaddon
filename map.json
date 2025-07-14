@@ -7,7 +7,7 @@
         "unk_semantic_0x51": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
         "unk_semantic_0x52": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": null},
         "unk_semantic_0x53": {"inputs": [10], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
-        "unk_semantic_0x54": {"inputs": [12], "colorspace": "Non-Color", "alpha_mode": null}
+        "unk_semantic_0x5A": {"inputs": [12], "colorspace": "Non-Color", "alpha_mode": null}
       }
     },
     {
