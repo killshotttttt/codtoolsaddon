@@ -40,7 +40,7 @@
           "colorspace": "Non-Color",
           "alpha_mode": "CHANNEL_PACKED"
         },
-        "unk_semantic_0x18": {
+        "unk_semantic_0x88": {
           "inputs": [10],
           "colorspace": "sRGB",
           "alpha_mode": null
