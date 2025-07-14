@@ -25,6 +25,27 @@
           "alpha_mode": null
         }
       }
+    },
+    {
+      "name": "bo6w_1_scheme",
+      "priority_semantic": "unk_semantic_0x57",
+      "mappings": {
+        "unk_semantic_0x57": {
+          "inputs": [0, 1],
+          "colorspace": "sRGB",
+          "alpha_mode": "CHANNEL_PACKED"
+        },
+        "unk_semantic_0x58": {
+          "inputs": [4, 5],
+          "colorspace": "Non-Color",
+          "alpha_mode": "CHANNEL_PACKED"
+        },
+        "unk_semantic_0x18": {
+          "inputs": [10],
+          "colorspace": "sRGB",
+          "alpha_mode": null
+        }
+      }
     }
   ],
   "default_scheme": {
