@@ -4,7 +4,7 @@
       "name": "bo6w_default_scheme",
       "priority_semantic": "unk_semantic_0x55",
       "mappings": {
-        "unk_semantic_0x57": {
+        "unk_semantic_0x55": {
           "inputs": [0, 1],
           "colorspace": "sRGB",
           "alpha_mode": "CHANNEL_PACKED"
