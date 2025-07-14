@@ -2,24 +2,24 @@
   "material_schemes": [
     {
       "name": "bo6w_default_scheme",
-      "priority_semantic": "unk_semantic_0x57",
+      "priority_semantic": "unk_semantic_0x55",
       "mappings": {
         "unk_semantic_0x57": {
           "inputs": [0, 1],
           "colorspace": "sRGB",
           "alpha_mode": "CHANNEL_PACKED"
         },
-        "unk_semantic_0x58": {
+        "unk_semantic_0x56": {
           "inputs": [4, 5],
           "colorspace": "Non-Color",
           "alpha_mode": "CHANNEL_PACKED"
         },
-        "unk_semantic_0x59": {
+        "unk_semantic_0x57": {
           "inputs": [6, 7],
           "colorspace": "sRGB",
           "alpha_mode": "CHANNEL_PACKED"
         },
-        "unk_semantic_0x18": {
+        "unk_semantic_0x6C": {
           "inputs": [10],
           "colorspace": "sRGB",
           "alpha_mode": null
