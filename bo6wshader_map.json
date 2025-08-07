@@ -1,62 +1,83 @@
 {
-  "material_schemes": [
-    {
-      "name": "bo6w_default_scheme",
-      "priority_semantic": "unk_semantic_0x55",
-      "mappings": {
-        "unk_semantic_0x55": {
-          "inputs": [0, 1],
-          "colorspace": "sRGB",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x56": {
-          "inputs": [4, 5],
-          "colorspace": "Non-Color",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x57": {
-          "inputs": [6, 7],
-          "colorspace": "sRGB",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x6C": {
-          "inputs": [10],
-          "colorspace": "sRGB",
-          "alpha_mode": null
+    "material_schemes": [
+      {
+        "name": "aug7_update_scheme",
+        "priority_semantic": "unk_semantic_0x51",
+        "mappings": {
+          "unk_semantic_0x51": {
+            "inputs": [0, 1],
+            "colorspace": "sRGB",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x52": {
+            "inputs": [4, 5],
+            "colorspace": "Non-Color",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x69": {
+            "inputs": [10],
+            "colorspace": "sRGB",
+            "alpha_mode": null
+          }
+        }
+      },
+      {
+        "name": "bo6w_default_scheme",
+        "priority_semantic": "unk_semantic_0x55",
+        "mappings": {
+          "unk_semantic_0x55": {
+            "inputs": [0, 1],
+            "colorspace": "sRGB",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x56": {
+            "inputs": [4, 5],
+            "colorspace": "Non-Color",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x57": {
+            "inputs": [6, 7],
+            "colorspace": "sRGB",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x6C": {
+            "inputs": [10],
+            "colorspace": "sRGB",
+            "alpha_mode": null
+          }
+        }
+      },
+      {
+        "name": "bo6w_1_scheme",
+        "priority_semantic": "unk_semantic_0x57",
+        "mappings": {
+          "unk_semantic_0x57": {
+            "inputs": [0, 1],
+            "colorspace": "sRGB",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x58": {
+            "inputs": [4, 5],
+            "colorspace": "Non-Color",
+            "alpha_mode": "CHANNEL_PACKED"
+          },
+          "unk_semantic_0x88": {
+            "inputs": [10],
+            "colorspace": "sRGB",
+            "alpha_mode": null
+          }
         }
       }
-    },
-    {
-      "name": "bo6w_1_scheme",
+    ],
+    "default_scheme": {
+      "name": "bo6w_fallback",
       "priority_semantic": "unk_semantic_0x57",
       "mappings": {
         "unk_semantic_0x57": {
           "inputs": [0, 1],
           "colorspace": "sRGB",
           "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x58": {
-          "inputs": [4, 5],
-          "colorspace": "Non-Color",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x88": {
-          "inputs": [10],
-          "colorspace": "sRGB",
-          "alpha_mode": null
         }
       }
     }
-  ],
-  "default_scheme": {
-    "name": "bo6w_fallback",
-    "priority_semantic": "unk_semantic_0x57",
-    "mappings": {
-      "unk_semantic_0x57": {
-        "inputs": [0, 1],
-        "colorspace": "sRGB",
-        "alpha_mode": "CHANNEL_PACKED"
-      }
-    }
   }
-} 
