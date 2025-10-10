@@ -1,0 +1,20 @@
+{
+  "material_schemes": [
+    {
+      "name": "simplified_scheme",
+      "priority_semantic": "unk_semantic_52",
+      "mappings": {
+        "unk_semantic_52": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
+        "unk_semantic_53": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": null}
+      }
+    }
+  ],
+  "default_scheme": {
+    "name": "simplified_default",
+    "priority_semantic": "unk_semantic_52",
+    "mappings": {
+      "unk_semantic_52": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
+      "unk_semantic_53": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": null}
+    }
+  }
+}
