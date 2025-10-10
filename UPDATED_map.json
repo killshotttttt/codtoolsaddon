@@ -1,14 +1,6 @@
 {
   "material_schemes": [
     {
-      "name": "B07_V1",
-      "priority_semantic": "unk_semantic_52",
-      "mappings": {
-        "unk_semantic_52": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
-        "unk_semantic_53": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": null}
-      }
-    },
-    {
       "name": "scheme_0x51",
       "priority_semantic": "unk_semantic_0x51",
       "mappings": {
@@ -95,6 +87,23 @@
         "unk_semantic_0x5": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": null},
         "unk_semantic_0x8": {"inputs": [15], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
         "unk_semantic_0x6": {"inputs": [12], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"}
+      }
+    },
+    {
+      "name": "scheme_blender_mapping",
+      "priority_semantic": "unk_semantic_0x0",
+      "mappings": {
+        "unk_semantic_0x0": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
+        "unk_semantic_0x4": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x5": {"inputs": [4, 5], "colorspace": "Non-Color", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x6": {"inputs": [6, 7], "colorspace": "Non-Color", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x7": {"inputs": [8, 9], "colorspace": "Non-Color", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x8": {"inputs": [10], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0xC": {"inputs": [12], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x1D": {"inputs": [13], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x22": {"inputs": [14], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x26": {"inputs": [15], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
+        "unk_semantic_0x32": {"inputs": [16], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"}
       }
     }
   ],
