@@ -42,42 +42,7 @@
         }
       }
     },
-    {
-      "name": "blender_python_scheme",
-      "priority_semantic": "unk_semantic_0x0",
-      "mappings": {
-        "unk_semantic_0x0": {
-          "inputs": [0, 1],
-          "colorspace": "sRGB",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x1": {
-          "inputs": [2],
-          "colorspace": "sRGB",
-          "alpha_mode": null
-        },
-        "unk_semantic_0x4": {
-          "inputs": [4, 5],
-          "colorspace": "Non-Color",
-          "alpha_mode": "CHANNEL_PACKED"
-        },
-        "unk_semantic_0x8": {
-          "inputs": [6],
-          "colorspace": "sRGB",
-          "alpha_mode": null
-        },
-        "unk_semantic_0xC": {
-          "inputs": [8],
-          "colorspace": "sRGB",
-          "alpha_mode": null
-        },
-        "unk_semantic_0x32": {
-          "inputs": [9, 10],
-          "colorspace": "sRGB",
-          "alpha_mode": "CHANNEL_PACKED"
-        }
-      }
-    },
+
     {
       "name": "bo6w_default_scheme",
       "priority_semantic": "unk_semantic_0x55",
@@ -122,6 +87,42 @@
           "inputs": [10],
           "colorspace": "sRGB",
           "alpha_mode": null
+        }
+      }
+    },
+    {
+      "name": "blender_python_scheme",
+      "priority_semantic": "unk_semantic_0x0",
+      "mappings": {
+        "unk_semantic_0x0": {
+          "inputs": [0, 1],
+          "colorspace": "sRGB",
+          "alpha_mode": "CHANNEL_PACKED"
+        },
+        "unk_semantic_0x1": {
+          "inputs": [2],
+          "colorspace": "sRGB",
+          "alpha_mode": null
+        },
+        "unk_semantic_0x4": {
+          "inputs": [4, 5],
+          "colorspace": "Non-Color",
+          "alpha_mode": "CHANNEL_PACKED"
+        },
+        "unk_semantic_0x8": {
+          "inputs": [6],
+          "colorspace": "sRGB",
+          "alpha_mode": null
+        },
+        "unk_semantic_0xC": {
+          "inputs": [8],
+          "colorspace": "sRGB",
+          "alpha_mode": null
+        },
+        "unk_semantic_0x32": {
+          "inputs": [9, 10],
+          "colorspace": "sRGB",
+          "alpha_mode": "CHANNEL_PACKED"
         }
       }
     }
