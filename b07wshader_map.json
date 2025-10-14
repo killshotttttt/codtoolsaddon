@@ -1,0 +1,22 @@
+{
+  "material_schemes": [
+    {
+      "name": "bo7_weapon_scheme",
+      "priority_semantic": "unk_semantic_52",
+      "mappings": {
+        "unk_semantic_52": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
+        "unk_semantic_53": {"inputs": [4, 5], "colorspace": "Non-Color", "alpha_mode": "CHANNEL_PACKED"},
+        "unk_semantic_6a": {"inputs": [10], "colorspace": "sRGB", "alpha_mode": null}
+      }
+    }
+  ],
+  "default_scheme": {
+    "name": "default_bo7_weapon",
+    "priority_semantic": "unk_semantic_52",
+    "mappings": {
+      "unk_semantic_52": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
+      "unk_semantic_53": {"inputs": [4, 5], "colorspace": "Non-Color", "alpha_mode": "CHANNEL_PACKED"},
+      "unk_semantic_6a": {"inputs": [10], "colorspace": "sRGB", "alpha_mode": null}
+    }
+  }
+}
