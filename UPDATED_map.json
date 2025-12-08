@@ -4,9 +4,10 @@
       "name": "scheme_group",
       "priority_semantic": "unk_semantic_46",
       "mappings": {
+        "unk_semantic_5": {"inputs": [13], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
         "unk_semantic_46": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
         "unk_semantic_47": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": "CHANNEL_PACKED"},
-        "unk_semantic_4d": {"inputs": [15, 14], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"}
+        "unk_semantic_48": {"inputs": [10, 11], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"}
       }
     },
     {
