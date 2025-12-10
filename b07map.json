@@ -6,6 +6,7 @@
       "mappings": {
         "unk_semantic_46": {"inputs": [0, 1], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"},
         "unk_semantic_47": {"inputs": [2, 3], "colorspace": "Non-Color", "alpha_mode": "CHANNEL_PACKED"},
+        "unk_semantic_49": {"inputs": [12], "colorspace": "sRGB", "alpha_mode": "STRAIGHT"},
         "unk_semantic_4d": {"inputs": [15, 14], "colorspace": "sRGB", "alpha_mode": "CHANNEL_PACKED"}
       }
     },
